@@ -1,0 +1,7 @@
+/* -------   Imports CSS -------- */
+@import "bootstrap.css";
+@import "bootstraptheme.css";
+/* -------   News Styles CSS -------- */
+.mono {
+  font-size: 3em;
+}
