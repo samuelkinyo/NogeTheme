@@ -1,7 +1,4 @@
-/* -------   Imports CSS -------- */
+@import "nogefonts.css";
 @import "bootstrap.css";
 @import "bootstraptheme.css";
-/* -------   News Styles CSS -------- */
-.mono {
-  font-size: 3em;
-}
+body{font-family:'Roboto',sans-serif}
